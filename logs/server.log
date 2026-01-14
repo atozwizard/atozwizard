@@ -1,0 +1,13 @@
+2026-01-14 16:53:59.052 | INFO     | main:log_requests:26 - 🚀 Request: POST /todos
+2026-01-14 16:53:59.053 | INFO     | main:log_requests:27 - 📋 Headers: Host=127.0.0.1:8000, User-Agent=Thunder Client (https://www.thunderclient.com)
+2026-01-14 16:54:04.557 | INFO     | main:log_requests:26 - 🚀 Request: POST /todos
+2026-01-14 16:54:04.558 | INFO     | main:log_requests:27 - 📋 Headers: Host=127.0.0.1:8000, User-Agent=Thunder Client (https://www.thunderclient.com)
+2026-01-14 16:57:40.089 | INFO     | main:log_requests:26 - 🚀 Request: POST /todos
+2026-01-14 16:57:40.089 | INFO     | main:log_requests:27 - 📋 Headers: Host=127.0.0.1:8000, User-Agent=Thunder Client (https://www.thunderclient.com)
+2026-01-14 16:57:40.116 | INFO     | main:log_requests:42 - ✅ Response: Status=200 | Time=26.53ms
+2026-01-14 16:57:40.117 | INFO     | main:log_requests:43 - 📦 Response Headers: Content-Type=application/json
+2026-01-14 16:59:34.589 | INFO     | main:log_requests:26 - 🚀 Request: GET /todos
+2026-01-14 16:59:34.589 | INFO     | main:log_requests:27 - 📋 Headers: Host=localhost:8000, User-Agent=Thunder Client (https://www.thunderclient.com)
+2026-01-14 16:59:34.590 | INFO     | main:log_requests:30 - 🔍 Query Params: {'todo_id': ''}
+2026-01-14 16:59:34.596 | INFO     | main:log_requests:42 - ✅ Response: Status=200 | Time=6.01ms
+2026-01-14 16:59:34.597 | INFO     | main:log_requests:43 - 📦 Response Headers: Content-Type=application/json
