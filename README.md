@@ -12,6 +12,12 @@
 - 프로젝트를 소개문이 아니라 `무엇을 어떻게 했는지`가 남는 산출물로 정리하려고 합니다.
 - 과장된 기술 스택보다 지금 설명할 수 있는 범위와 실제로 남은 근거를 더 중요하게 생각합니다.
 
+## Tech and Work Range
+
+- 핵심 사용 기술: `Python`, `Git/GitHub`, `Markdown`
+- 프로젝트에서 다룬 기술과 구조: `FastAPI`, `RAG`, `LangGraph`, `ChromaDB`, `OCR`, `Docker`, `SQL`
+- 학습 중인 주제: `NLP 전처리`, `HybridRAG`, `LLM guardrail testing`, `평가 파이프라인`, `운영형 AI 구조`
+
 ## Current Focus
 
 - 서비스 설명문 전처리와 근거 신호 정리
